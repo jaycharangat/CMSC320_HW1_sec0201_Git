@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: The difference between merging and rebasing is that merging saves the history of the repository while rebasing will make the history linear by rewriting it.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about data science and how it is used in the world. I am looking forward to the projects we will build in this class and what I can learn to make my own personal projects.
